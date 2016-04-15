@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.name        = "comment"
   s.version     = Comment::VERSION
   s.authors     = ["phongleland"]
-  s.email       = [""]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Comment."
-  s.description = "TODO: Description of Comment."
+  s.email       = ["phongleland@gmail.com"]
+  s.homepage    = "http://phongleland.com"
+  s.summary     = "Summary of Comment."
+  s.description = "Description of Comment."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
